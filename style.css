@@ -111,11 +111,11 @@ img {
     grid-row-gap: 0;
     grid-template-columns: none;
     width: auto;
-    max-width: 350px;
+    max-width: 330px;
     height: auto;
     max-height: 780px;
     background-color: hsl(244, 38%, 16%);
-    margin: 80px 30px;
+    margin: 80px 20px;
     position: relative;
     border-radius: 10px;
     }
