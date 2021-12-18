@@ -106,18 +106,18 @@ img {
     }
     
     .stat-card {
-    display: grid;
-    grid-template-rows: 1fr 1fr;
-    grid-row-gap: 0;
-    grid-template-columns: none;
-    width: auto;
-    max-width: 330px;
-    height: auto;
-    max-height: 780px;
-    background-color: hsl(244, 38%, 16%);
-    margin: 80px 20px;
-    position: relative;
-    border-radius: 10px;
+        display: grid;
+        grid-template-rows: 1fr 1fr;
+        grid-row-gap: 0;
+        grid-template-columns: none;
+        width: auto;
+        max-width: 330px;
+        height: auto;
+        max-height: 780px;
+        background-color: hsl(244, 38%, 16%);
+        margin: 80px 20px;
+        position: relative;
+        border-radius: 10px;
     }
     
     img {
@@ -129,9 +129,9 @@ img {
     }
     
     .content {
-    margin: 280px 35px 30px 35px;
-    color: hsl(0, 0%, 100%);
-    position: relative;
+        margin: 280px 35px 30px 35px;
+        color: hsl(0, 0%, 100%);
+        position: relative;
     }
 
     .top {
